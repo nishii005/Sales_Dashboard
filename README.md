@@ -48,7 +48,5 @@ This project is a beginner-friendly data analysis case study focused on explorin
 - Consider increasing investment in the **West region**.
 - Expand offerings or run promotions under the **Technology** category to boost revenue further.
 
----
 
-## Project Structure
 
